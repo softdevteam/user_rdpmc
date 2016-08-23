@@ -1,0 +1,9 @@
+.tmp_versions/
+.user_rdpmc.*
+Module.symvers
+modules.order
+test_rdpmc
+user_rdpmc.ko
+user_rdpmc.mod.c
+user_rdpmc.mod.o
+user_rdpmc.o
